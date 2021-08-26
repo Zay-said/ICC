@@ -12,6 +12,7 @@ html{
 
 body{
     background: linear-gradient(179.77deg, #110024 0.2%, #370C2A 21.47%, #380C2B 50.01%, #370C2A 73.36%, #110024 99.82%);
+    overflow-x: hidden;
 }
 #bg{
     background-image: url("Images/circle.svg");
