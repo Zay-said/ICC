@@ -1,23 +1,10 @@
-<svg width="710" height="53" viewBox="0 0 710 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g style="mix-blend-mode:color-dodge" filter="url(#filter0_b)">
-<path d="M2 32L348 32" stroke="#1F202C" stroke-width="3.01472" stroke-linecap="round"/>
-</g>
-<g style="mix-blend-mode:color-dodge" filter="url(#filter1_b)">
-<path d="M362 32L708 32" stroke="#1F202C" stroke-width="3.01472" stroke-linecap="round"/>
-</g>
-<path d="M384 26.5C384 41.1355 372.136 53 357.5 53C342.864 53 331 41.1355 331 26.5C331 11.8645 342.864 0 357.5 0C372.136 0 384 11.8645 384 26.5Z" fill="white"/>
+<svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M53 26.5C53 41.1355 41.1355 53 26.5 53C11.8645 53 0 41.1355 0 26.5C0 11.8645 11.8645 0 26.5 0C41.1355 0 53 11.8645 53 26.5Z" fill="white"/>
+<rect x="6" y="4" width="41" height="44" fill="url(#pattern0)"/>
 <defs>
-<filter id="filter0_b" x="-376.347" y="-346.347" width="1102.69" height="756.694" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feGaussianBlur in="BackgroundImage" stdDeviation="188.42"/>
-<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
-</filter>
-<filter id="filter1_b" x="-16.3468" y="-346.347" width="1102.69" height="756.694" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feGaussianBlur in="BackgroundImage" stdDeviation="188.42"/>
-<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
-</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(-0.0365854) scale(0.0111789 0.0104167)"/>
+</pattern>
+<image id="image0" width="96" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABmJLR0QA/wD/AP+gvaeTAAABnUlEQVR4nO3bvU7DQBBF4QEempKUeSwanonSFCiSZdne2Z+Zm3XOJ7lcbN+Dy5gBAAAAAO7qB3h1ixFBajEiSC1GBKnFiCC1DUCEZHsBiJDoKAARkpwFIEKCUgAiBPMEIEIgbwAiBKkJQIQAtQGIMFhLACIM1BogLULpIdTn1Vd4BAKIIxBAHIEAAyO8O14Y7X4j/ihfgO/6crxLEwIIxzfHzdXn1Vfo+K+A8cUYX4zxxRhfjPHFGF+M8cUYX4zxxRhfjPHFGF+M8cUYX4zxxW7qB4h06Zd7djf7/7wh8BifAALr8QmQbDs+ARLtjU+AJEfjEyDB2fgECFYanwCBPOMTIIh3fAIEqBmfAIPVjk+AgVrGJ8AgreMTYICe8QnQqXf8jKtEfb7ZDONfNsAs418ywEzjTxfA8zvhkN+6os6n6f+zL/kF1JglQon6fJcZIpSoz3frjYABeiJgkNYIGKglAgarjYAANREQxBsBgTwREKwUAQnOIiDJUQQk2ouAZNsIEFhHgMgjAlY+Eu/1Y2ZvZvadeE8AAAAAeDp/Ay8nMSZi6t8AAAAASUVORK5CYII="/>
 </defs>
 </svg>

@@ -12,6 +12,7 @@ html{
 
 body{
     background: linear-gradient(179.77deg, #110024 0.2%, #370C2A 21.47%, #380C2B 50.01%, #370C2A 73.36%, #110024 99.82%);
+    overflow-x:hidden ;
 }
 #bg{
     background-image: url("Images/circle.svg");
@@ -54,7 +55,7 @@ nav ul li a{
 
 nav ul li {
     margin-right: 40px;
-    margin-top: 25px;
+    margin-top: 46px;
     
 } 
 .logo {
@@ -317,6 +318,7 @@ select{
     border: transparent;
     font-size: 26px;
     font-weight:  400;
+
 }
 
 option{
@@ -346,6 +348,7 @@ option{
     display: inherit;
     position: absolute;
     z-index: 1000;
+    left: 325px;
 }
 
 #Send, #Get{
